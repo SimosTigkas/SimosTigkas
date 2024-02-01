@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simo Tigkas</h1>
+<h1 align="center">Hi 👋, I'm Simos Tigkas</h1>
 <h3 align="center">A mathematician who is passionate in coding!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simostigkas&label=Profile%20views&color=0e75b6&style=flat" alt="simostigkas" /> </p>
