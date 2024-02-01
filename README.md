@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simos Tigkas</h1>
+<h1 align="center">Hi 👋, I'm Simos!!</h1>
 <h3 align="center">A mathematician who is passionate in coding!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simostigkas&label=Profile%20views&color=0e75b6&style=flat" alt="simostigkas" /> </p>
@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simostigkas&show_icons=true&locale=en&layout=compact" alt="simostigkas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simostigkas&show_icons=true&locale=en" alt="simostigkas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simostigkas&" alt="simostigkas" /></p>
