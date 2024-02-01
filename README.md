@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning C at [Hive, Helsinki](https://www.hive.fi/en/)
 
-- 📫 How to reach me: [Email](suomikendam@gmail.com)
+- 📫 How to reach me: [Email, LinkedIn](suomikendam@gmail.com , https://www.linkedin.com/in/simos-tigkas/)
 
 - ⚡ Fun fact: **Eager to learn about cyber security and graphic designing!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/simos tigkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simos tigkas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
