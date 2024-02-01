@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning C at [Hive, Helsinki](https://www.hive.fi/en/)
 
-- 📫 How to reach me: [Email, LinkedIn](suomikendam@gmail.com , https://www.linkedin.com/in/simos-tigkas/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simos-tigkas/)
 
 - ⚡ Fun fact: **Eager to learn about cyber security and graphic designing!!**
 
