@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simos-tigkas/)
 
-- ⚡ Fun fact: **Eager to learn about cyber security and graphic designing!!**
+- ⚡ Fun fact: **Eager to learn more about Frontend development and UI/UX designing!!**
 
 
 <h3 align="left">Languages and Tools:</h3>
