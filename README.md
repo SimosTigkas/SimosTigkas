@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simostigkas&label=Profile%20views&color=0e75b6&style=flat" alt="simostigkas" /> </p>
 
-- 🌱 I recently completed my core studies at [Hive, Helsinki](https://www.hive.fi/en/)
+- 🌱 I recently completed my studies at [Hive, Helsinki](https://www.hive.fi/en/)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simos-tigkas/)
 
