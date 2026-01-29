@@ -5,9 +5,9 @@
 🌱 I recently completed my studies at [Hive, Helsinki](https://www.hive.fi/en/)
 
   ## 📫 Let’s connect
-- Portfolio: https://simostigkas.netlify.app/
-- GitHub: https://github.com/simostigkas
-- LinkedIn: https://www.linkedin.com/in/simos-tigkas/
+- [Portfolio](https://simostigkas.netlify.app/)
+- [GitHub](https://github.com/simostigkas)
+- [LinkedIn](https://www.linkedin.com/in/simos-tigkas/)
 
 - ⚡ I’m always open to learning, giving feedback and building meaningful products together.
 
