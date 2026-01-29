@@ -9,7 +9,7 @@
 - GitHub: https://github.com/simostigkas
 - LinkedIn: https://www.linkedin.com/in/simos-tigkas/
 
-- ⚡ I’m always open to learning, feedback, and building meaningful products together.
+- ⚡ I’m always open to learning, giving feedback and building meaningful products together.
 
 
 ## 🧰 Languages & Frameworks Used in My Projects
