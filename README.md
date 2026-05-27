@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simos!!</h1>
-<h3 align="center">A mathematician who is passionate in frontend-development!!</h3>
+<h3 align="center">A mathematician who is passionate in UI/UX designing and frontend-development!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simostigkas&label=Profile%20views&color=0e75b6&style=flat" alt="simostigkas" /> </p>
 
 🌱 I recently completed my studies at [Hive, Helsinki](https://www.hive.fi/en/)
